@@ -1,6 +1,5 @@
 ﻿using Microsoft.Maui.Controls.PlatformConfiguration;
 using Microsoft.Maui;
-using Com.Google.Android.Exoplayer2;
 
 namespace ExoTestApp;
 
